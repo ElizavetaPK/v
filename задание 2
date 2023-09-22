@@ -1,0 +1,8 @@
+public class Main
+{
+public static void main(String[] args)
+{
+int x=6, y=3, z=11;
+System.out.println(x*y*z);
+}
+}
