@@ -2,7 +2,7 @@ public class Main
 {
 public static void main(String[] args)
 {
-int a=2013697;
+int x=2013697;
 System.out.println(a%-10);
 }
 }
