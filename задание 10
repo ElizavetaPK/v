@@ -2,8 +2,8 @@ public class Main
 {
 public static void main(String[] args)
 {
-int h=38, a=4, b=1, day;
-day = h/(a-b);
-System.out.println("Через "+ day +" дней улитка доползет до вершины");
+int h=38, a=4, b=1, d;
+d = h/(a-b);
+System.out.println("Через "+ d +" дней улитка доползет до вершины");
 }
 } 
