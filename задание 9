@@ -1,0 +1,9 @@
+public class Main
+{
+public static void main(String[] args)
+{
+int v=58, t=3, S;
+S=v*t;
+System.out.println(S);
+}
+} 
