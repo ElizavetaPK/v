@@ -1,0 +1,12 @@
+public class Main
+{
+public static void main(String[] args)
+{
+int a=46, b=50, n=3;
+int sumkopeek = a*100+b;
+int totalsum = sumkopeek*n;
+int rubly = totalsum/100;
+int kopeek = totalsum%100;
+System.out.printf("Общая стоимость за %d пирожка составляет %d рублей и %d копеек.%n", n, rubly, kopeek);
+}
+}
